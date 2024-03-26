@@ -4,6 +4,7 @@
   <p align="center" style="font-size: 8px;font-weight: 700">Student Management System (Student-SRMS) </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=laravel-srms&label=Student%20SRMS&color=0e75b6&style=flat" alt="project views count" /> </p>
 
+
 </div>
 
 ### Login Page:
